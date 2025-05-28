@@ -1,5 +1,5 @@
 import { useState } from "react"
-import "./App.css"
+import "./counter.css"
 
 const Counter = () => {
 
